@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phanilkumar
-- 👀 I’m interested in ...Devops
-- 🌱 I’m currently learning ...RoR
+- 👀 I’m interested in ...RoR
+- 🌱 I’m currently learning ...Devops
 - 💞️ I’m looking to collaborate on ...StartupProjects
 - 📫 How to reach me ...phanilkumar@outlook.com
 <!---
